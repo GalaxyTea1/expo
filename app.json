@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "my-app",
+    "slug": "myapp",
+    "extra": {
+      "eas": {
+        "projectId": "5ad892a5-3edb-470e-81c3-a75d8515a152"
+      }
+    },
+    "owner": "trongdv1999",
+    "android": {
+      "package": "com.trongdv1999.myapp"
+    }
+  }
+}
